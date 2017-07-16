@@ -35,6 +35,6 @@ public class CV4JForGlideTransformation extends BitmapTransformation {
 
     @Override
     public String getId() {
-        return "cn.magicwindow.toutiao.utils.CV4JForGlideTransformation";
+        return "com.cv4j.transformations.CV4JForGlideTransformation";
     }
 }
